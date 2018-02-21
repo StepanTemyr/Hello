@@ -1,0 +1,6 @@
+C:\Users\Stepan\source\repos\PCHardware\PCHardware\bin\Debug\PCHardware.exe.config
+C:\Users\Stepan\source\repos\PCHardware\PCHardware\bin\Debug\PCHardware.exe
+C:\Users\Stepan\source\repos\PCHardware\PCHardware\bin\Debug\PCHardware.pdb
+C:\Users\Stepan\source\repos\PCHardware\PCHardware\obj\Debug\PCHardware.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\source\repos\PCHardware\PCHardware\obj\Debug\PCHardware.exe
+C:\Users\Stepan\source\repos\PCHardware\PCHardware\obj\Debug\PCHardware.pdb
